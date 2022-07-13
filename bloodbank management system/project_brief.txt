@@ -1,0 +1,9 @@
+The web application titled “Blood Bank Management System”, aims to build a one-stop space for donor information. The developed application is a web platform which will play an important role in making donor information readily available for patients who need blood thereby increasing the likelihood of saving their lives. 
+The web application would act as a centralized donor database for blood banks. At times when blood banks do not have the required blood type or are running low on blood supplies, registered blood donors can be alerted via email about the need. This project is aimed at developing an application that will include all the relevant features to provide a means of communication between blood seekers and blood donors. The main objective of the application is, to make the donor database just one click away from the needy. 
+
+The following application is designed to:
+•Build a blood-donation community
+•Help individuals looking for blood units in conveniently finding the donor information.
+•Inform donors about donation camps and urgent blood unit need via mail to increase the likelihood of saving a life.
+It is a common ground for donors, recipients and authorised organisations that conduct donation camps. This helps in bridging the communication gap
+
