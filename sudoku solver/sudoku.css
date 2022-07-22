@@ -1,0 +1,97 @@
+body{
+    text-align:center;
+}
+#board{
+    width:540px;
+    height:540px;
+    background-color:pink;
+    margin:0 auto;
+    display:flex;
+    flex-wrap:wrap;
+    box-shadow:2px 2px 10px rgb(100, 100, 100);
+}
+#digits{
+    width:542px;
+    height:60px;
+ background-color:white;
+ box-shadow:0px 0px 10px gray;
+
+margin: 0 auto;
+
+display:flex;
+
+}
+.tiles{
+    /* mana soln */
+    width:56px;
+    height:56px;
+    font-size:25px;
+    color:green;
+    border:1px solid rgb(177, 177, 177);
+    margin:2px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-weight:900px;
+}
+.usertile{
+
+    width:56px;
+    height:56px;
+    font-size:33px;
+    color:gray;
+    border:3px solid gray;
+    margin:2px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+font-weight:650;
+
+    box-shadow:2px 2px 2px gray;
+}
+.usertileb{
+ 
+    width:56px;
+    height:56px;
+    font-size:33px;
+    color:white;
+border:1px solid white;
+    margin:2px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+ font-weight:900;
+    box-shadow:2px 2px 2px gray;
+}
+.selected{
+    background-color:gray;
+    width:56px;
+    height:56px;
+    color:white;
+    
+}
+.boardSelected{
+    color:rgb(230, 129, 146);
+  
+    background-color:white;
+}
+
+.hor-line{
+    border-bottom:1px solid rgb(231, 99, 121);
+}
+.ver-line{
+    border-right:1px solid rgb(212, 89, 110);
+}
+#wrong{
+    color:red;
+    font-weight:600;
+    font-size:22px;
+}
+#right{
+    color:green;
+    font-weight:650;
+    font-size:22px;
+}
+.ruleandboard{
+    display:flex;
+}
